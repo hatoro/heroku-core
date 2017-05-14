@@ -36,7 +36,7 @@ fi
 BUILD_DIR=$1
 CACHE_DIR=$2
 ENV_DIR=$3
-APP_DIR="/app"
+APP_DIR="/src"
 
 echo "BUILD_DIR: ${BUILD_DIR}"
 echo "CACHE_DIR: ${CACHE_DIR}"
